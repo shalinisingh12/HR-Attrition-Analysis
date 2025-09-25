@@ -57,10 +57,10 @@ The goal of this project is to **identify the key drivers of attrition** and pro
 
 ---
 
-## 📂 Repository Structure  
-- `presentation.pdf` → Project presentation slides.  
-- `dashboard_screenshot.png` → Power BI dashboard preview.  
-- `README.md` → Documentation of the project.  
+## 📂 Repository Structure    
+- `README.md` → Documentation of the project.
+- `dashboard_screenshot.png` → Power BI dashboard preview.
+- - `presentation.pdf` → Project presentation slides
 
 ---
 
