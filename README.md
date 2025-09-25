@@ -38,7 +38,7 @@ The goal of this project is to **identify the key drivers of attrition** and pro
 ## 📊 Dashboard Preview  
  
 
-![Dashboard Screenshot](./dashboard_screenshot.png)  
+Screenshot 2025-09-24 144423.png
 
 ---
 
