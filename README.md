@@ -37,8 +37,7 @@ The goal of this project is to **identify the key drivers of attrition** and pro
 
 ## 📊 Dashboard Preview  
  
-
-Screenshot 2025-09-24 144423.png
+(https://github.com/shalinisingh12/HR-Attrition-Analysis/blob/main/Screenshot%202025-09-24%20144423.png)
 
 ---
 
